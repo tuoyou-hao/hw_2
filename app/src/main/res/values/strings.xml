@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw_2</string>
+    <string name="chinese">你好</string>
+    <string name="english">hello</string>
+    <string name="chinese_button">chinese</string>
+    <string name="english_button">english</string>
+    <string name="app_title">please choose a button!</string>
+</resources>
